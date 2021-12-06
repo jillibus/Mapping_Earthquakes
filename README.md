@@ -23,6 +23,10 @@ For Deliverable 1, the goal was to beable to Map the world and to outline the kn
 
 _NOTE: The Upper Corner with the 3 Diamonds - That is a pull-down that actually allows you to chose the Map Style from "Street View", "Satellite View" and "Dark View"_.  
 
+![logo](images/Map.png)
+
+---
+
 <img src="images/sat-faults.png" width=75% height=75% />
 
 ### Deliverable 2:
