@@ -12,7 +12,7 @@ Enhancements will be to show the Earth in different views, so show these visuali
 * https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 * https://raw.github.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
  
-*Software*: JavaScript, d3.json, Mapbox, Leaflet 
+*Software*: JavaScript, Leaflet, MapBox and geoJSON data 
 
 ## Results
 
@@ -21,9 +21,9 @@ For Deliverable 1, the goal was to beable to Map the world and to outline the kn
 
 **The image below shows the Earth, in satellite image, with the Techtonic Plages outlined in orange.**  
 
-_NOTE: The Upper Corner with the 3 Diamonds - That is a pull-down that actually allows you to chose the Map Style from "Street View", "Satellite View" and "Dark View"_.  
+_NOTE: The Upper Corner with the 3 Diamonds - That is a pull-down that actually allows you to chose the Map Style from "Street View", "Satellite View" and "Dark View"_ as well as how many layers you wish to add. 
 
-![logo](images/Map.png)
+<img src="images/Maps.png" width=20% height=20% />
 
 ---
 
@@ -40,7 +40,7 @@ For Deliverable 2, the goal was to add Major Earthquake Data to our original ear
 
 <img src="images/sat-majoreq.png" width=75% height=75% />
 
-### Deliverble 3:
+### Deliverable 3:
 For Deliverble 3: the goal was to add an additional Map.  With this I added the Dark Map, which I will show here.  I also wanted to show additional images of the map's features that visualizes more data that the JSON data provided and I could add to the Challenge, which I believe were part of the deliverables.
 
 **The image below is an image of the Earth in the Street View, showing the Techtonic Plates as wall as the Major Earthquakes.
@@ -64,6 +64,8 @@ For Deliverble 3: the goal was to add an additional Map.  With this I added the 
 
 ## Summary
 
+This challenge was definitly one that took me quite a bit of time to complete.  But it was great to see the maps come together and see the final product. JavaScript wasn't hard for me to understand, it was just the new products of Leaflet and their new options that I had to learn and remember to lookup.  Now that we are learning so many, the syntax changes are tripping me up with who needs an else if, or elif, etc.  I do like Visual Studio as it underlines items in Red, but that just says "something is wrong" so that gets me part-way.
 
+So onto the next challenge!
 
-
+Jill
