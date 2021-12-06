@@ -36,6 +36,28 @@ For Deliverable 2, the goal was to add Major Earthquake Data to our original ear
 
 <img src="images/sat-majoreq.png" width=75% height=75% />
 
+### Deliverble 3:
+For Deliverble 3: the goal was to add an additional Map.  With this I added the Dark Map, which I will show here.  I also wanted to show additional images of the map's features that visualizes more data that the JSON data provided and I could add to the Challenge, which I believe were part of the deliverables.
+
+**The image below is an image of the Earth in the Street View, showing the Techtonic Plates as wall as the Major Earthquakes.
+
+<img src="images/street-fault-majoreq.png" width=75% height=75% />
+
+---
+**The image below is an image of the Earth in the Dark View, showing the Techtonic Plates as wall as the All Earthquakes.
+
+<img src="images/dark-fault-alleq.png" width=75% height=75% />
+
+---
+**The image below is an image of the Earth in the Satellite View, showing the Techtonic Plates as wall as the All Earthquakes, with a Pop-Up of a description of one of the earthquakes.  If you were to chose one of the "circles" a Pop-Up will give you the Magnitude and Location of the earthquake.
+
+<img src="images/fullimage.png" width=75% height=75% />
+
+---
+**The image below is the image of the Earth in the Satellite View, showing the Techtonic Plates as wall as the All Earthquakes.  If you were to chose one of the "circles" a Pop-Up will give you the Magnitude and Location of the earthquake.
+
+<img src="images/imagenopopup.png" width=75% height=75% />
+
 ## Summary
 
 
